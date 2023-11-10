@@ -6,7 +6,7 @@
 
 ### Videos Taxonómicos
 
-La sección "Videos_Taxonomicos" contiene videos clasificados según las diferentes especies de ranas y sapos de Colombia. Cada video está etiquetado con información adicional, como hábitat, comportamiento y otros detalles relevantes.
+La sección "Videos_Taxonomicos" contiene videos clasificados según las diferentes especies de ranas y sapos de Colombia.
 
 - **Rana de cristal Ikakogi ispacue**
 - **Rana de la Lluvia Pristimantis sanctaemartae**
