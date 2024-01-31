@@ -1,6 +1,6 @@
 # Proyecto de Proyección 3D de Ranas y Sapos de Colombia
 
-¡Bienvenido al repositorio de videos para proyección 3D de ranas y sapos de Colombia! Este proyecto tiene como objetivo proporcionar contenido visual impresionante y educativo sobre la biodiversidad de anfibios en Colombia, específicamente centrado en las fascinantes ranas y sapos.
+¡Bienvenido al repositorio de videos para proyección 3D de ranas y sapos de Colombia! Este proyecto tiene como objetivo proporcionar contenido visual impresionante y educativo sobre la biodiversidad de anfibios en Colombia, específicamente centrado en las fascinantes ranas y sapos, mediante el constructo piramidal que pemrite visualizar imagenes y videos 3D.
 
 ## Contenido del Repositorio
 
